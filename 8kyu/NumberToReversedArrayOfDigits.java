@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ConvertNumberToReversedArrayOfDigits {
+public class NumberToReversedArrayOfDigits {
     public static int[] digitize(long n) {
         String newStr = "" + n;
         String[] arr = newStr.split("");
