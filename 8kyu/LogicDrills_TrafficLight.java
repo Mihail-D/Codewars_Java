@@ -1,4 +1,4 @@
-public class ThinkfulLogicDrills_TrafficLight {
+public class LogicDrills_TrafficLight {
     public static String updateLight(String current) {
         String[] lights = {"green", "yellow", "red"};
         String color = "green";
