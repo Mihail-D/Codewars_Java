@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Factorial {
+public class Factorial_1 {
     public static BigInteger factorial(int value) {
         BigInteger factorial = BigInteger.ONE;
 
