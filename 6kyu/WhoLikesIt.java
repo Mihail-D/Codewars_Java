@@ -20,5 +20,4 @@ public class WhoLikesIt {
         System.out.println(whoLikesIt("Max", "John", "Mark"));
         System.out.println(whoLikesIt("Alex", "Jacob", "Mark", "Max"));
     }
-
 }
